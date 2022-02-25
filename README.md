@@ -1,6 +1,6 @@
 
 # File System Module
-A binary file processing program for linux, that deals with binary files and System calls. 
+A binary file processing program for linux, that parses binary files through system calls. 
 
 For more details see Requirements.pdf.
 
